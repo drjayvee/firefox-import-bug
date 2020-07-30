@@ -1,0 +1,2 @@
+Repro test case for Firefox bug with dynamic import()
+See https://bugzilla.mozilla.org/show_bug.cgi?id=1656248
